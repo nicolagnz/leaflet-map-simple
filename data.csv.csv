@@ -1,0 +1,3 @@
+Title,Address,Latitude,Longitude,Found Address,Match Quality,Source
+simon,"564 welch circle, lake barrington, illinois, 60010",42.20925,-88.189964,"564 WELCH CIR, LAKE BARRINGTON, IL, 60010",Match,US Census
+aut millenium,"antares place, auckland, new zealand",-36.7423485,174.7312069,"Antares Pl, Rosedale, Auckland 0632, New Zealand",Match,Google
